@@ -1,18 +1,38 @@
-## Hello there
 
-I'm using my github profile README.md to highlight projects I'm working on and track my learning.
+<!--
+**acbrown-dev/acbrown-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Right now, I'm learning Rust. I'm doing this for two reasons:
+Here are some ideas to get you started:
 
-1. It will help me understand low-level language and hardware-level concepts. These are weakpoints for me that have come up in my past work.
-2. Many jobs I'm interested in cite at least one low-level language as a mandatory qualification.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-I'm working on a game in Rust, but that's private until I make more progress. In parallel to this I'm brushing up on my DSA with leetcode and figured a good way to get familiar with Rust would be to use it for all my solutions moving forward. Enjoy this leetcode tracker for now, more to come.
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 💼 (Open to work) Former developer on the Weir Motion Metrics innovation team. I helped build a hyperspectral imaging ore characterization product.
+- 🎓 Bachelor's in Data Science from SFU, class of 2024
+- 🌐 Based in Vancouver, BC
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/alexcorey123?theme=dark)](https://leetcode.com/u/alexcorey123)
+## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+  - Looking at how specialized compression algorithms can fit into HSI workflows.
+  - Compiling past projects that were split across a few different accounts/platforms here on my GitHub for visibility for employers.
+  - Looking for work! I'm interested in ML work of any kind.
 
+- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
+  - Climb this (rock)[https://www.instagram.com/popular/majestic-boulder-squamish/]
+  - Create something that helps the world!
+  - Go back to Japan.
 
-
+## Coming soon...
+- Project highlights
+- Open source contributions
 <!--
 **acbrown-dev/acbrown-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
