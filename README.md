@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
   - Climb this [rock](https://www.instagram.com/popular/majestic-boulder-squamish/)
   - Create something that helps the world!
-  - Go back to Japan.
 
 ## Coming soon...
 - Project highlights
